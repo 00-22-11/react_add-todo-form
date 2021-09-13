@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,6BAEE,iBACF","file":"main.e9492264.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n.input__title,\n.input__select {\n  margin-right: 20px;\n}\n"]}
